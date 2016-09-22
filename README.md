@@ -1,9 +1,15 @@
 # CDialog
 AlertDialog 换了一点小样式
+
 Preview
+
 ![cdilog](https://github.com/CSnowStack/CDIalog/blob/master/imgs/c.gif)
+
 ![cdilog](https://github.com/CSnowStack/CDIalog/blob/master/imgs/c1.gif)
-![cdilog](https://github.com/CSnowStack/CDIalog/blob/master/imgs/c2.gif)
+
+![cdilog](https://github.com/CSnowStack/CDIalog/blob/master/imgs/c2.png)
+
+
 use
 ```java
       CDialog.Builder builder = new CDialog.Builder(this);
